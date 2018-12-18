@@ -1,2 +1,3 @@
-# resources
-Design System resources
+# Design System resources
+
+- https://adele.uxpin.com
