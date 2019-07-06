@@ -8,5 +8,5 @@
 
 ## Principles
 
-- (Love this!)[https://www.gov.uk/guidance/government-design-principles#understand-context]
+- [Love this!](https://www.gov.uk/guidance/government-design-principles#understand-context)
 
